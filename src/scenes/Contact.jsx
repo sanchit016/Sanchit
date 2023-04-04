@@ -70,6 +70,7 @@ const Contact = () => {
         >
           <form
             target="_blank"
+            rel="noreferrer"
             onSubmit={onSubmit}
             action="https://formsubmit.co/e8a5bdfa807605332f809e5656e27c6e"
             method="POST"

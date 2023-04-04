@@ -26,7 +26,7 @@ const Project = ({ title, link }) => {
       <div className={overlayStyles}>
         
         <p className="text-2xl font-mono">{title}❤️</p>
-        <a href={link} target="_blank"> Link </a>
+        <a href={link} target="_blank" rel="noreferrer"> Link </a>
       </div>
       <img src={`../assets/${projectTitle}.jpeg`} alt={projectTitle} />
     </motion.div>
