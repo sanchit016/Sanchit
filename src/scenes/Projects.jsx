@@ -85,7 +85,7 @@ const Projects = () => {
           <Project title="Climba iOS" link="https://github.com/sanchit016/iOS-Climba/"/>
 
           {/* ROW 2 */}
-          <Project title="Portfolio" link="#home"/>
+          <Project title="Portfolio" link="https://portfoliochhabra.netlify.app/"/>
           <Project title="Project 4" />
           <div
             className="flex justify-center text-center items-center p-10 bg-blue
